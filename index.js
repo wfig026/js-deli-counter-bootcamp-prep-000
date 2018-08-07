@@ -1,5 +1,5 @@
 var katzDeliLine = [];
 
-function takeNumber(current:ine) {
+function takeNumber(currentLine, newPerson) {
   
 }
